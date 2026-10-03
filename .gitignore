@@ -1,0 +1,10 @@
+venv/
+.tmp_store/
+client_secret.json
+*.token
+*.json
+__pycache__/
+client_secret.json
+token.json
+.tmp_store/
+.venv/
